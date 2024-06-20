@@ -1,1 +1,1 @@
-# FEDOROV_PRACTICE
+# CodeWars Practice
